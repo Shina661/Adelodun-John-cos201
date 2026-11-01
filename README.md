@@ -29,3 +29,15 @@ Development Environment and First Java Program
 1. Open a terminal in the `week02` directory.
 2. Compile the program using `javac HelloWorld.java`.
 3. Run the program using `java HelloWorld`.
+## Week 3: Variables, Data Types, Expressions and Input/Output
+
+### Programs
+1. `week03/SimpleCalculator.java`
+2. `week03/AverageCalculator.java`
+3. `week03/ItemCost.java`
+
+### How to Run
+Open a terminal in the `week03` directory and run:
+`javac SimpleCalculator.java` then `java SimpleCalculator`
+`javac AverageCalculator.java` then `java AverageCalculator`
+`javac ItemCost.java` then `java ItemCost`
